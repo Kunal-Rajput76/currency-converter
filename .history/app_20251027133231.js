@@ -1,0 +1,8 @@
+// const BASE_URL =
+//   "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/inr.json";
+
+
+// const BASE_URL="https://cat-fact.herokuapp.com/fact";
+const url="https://cat-fact.herokuapp.com";
+let promise=fetch(url);
+console.log(promise);
